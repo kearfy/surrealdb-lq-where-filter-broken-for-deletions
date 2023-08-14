@@ -1,0 +1,7 @@
+{
+  "tasks": {
+    "dev": "deno run --allow-net main.ts",
+    "dev:watch": "deno run --allow-net --watch main.ts",
+    "dev:surreal": "surreal start --user root --pass root"
+  }
+}

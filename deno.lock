@@ -1,0 +1,19 @@
+{
+  "version": "2",
+  "remote": {
+    "https://deno.land/x/surrealdb@v0.8.4/mod.ts": "f9b080bdcb417ad67b2bfa9c03f74bbf5b6d8fe445d8ed00aac8668c38eba22d",
+    "https://deno.land/x/surrealdb@v0.8.4/src/errors.ts": "39458fe3bf4a94ba0debdf57d53b671af204d0191b4bc8bc0a8f514dfa9a7ec2",
+    "https://deno.land/x/surrealdb@v0.8.4/src/index.ts": "73fdcc1d716daebf74c4add73e82ae52f5ddf26397eeb86e7621bb06f1ee5f07",
+    "https://deno.land/x/surrealdb@v0.8.4/src/library/Pinger.ts": "87f28cbed832e7116a55bb45b88f72a32beba5f5634bcbc0b67b2ea0e295f566",
+    "https://deno.land/x/surrealdb@v0.8.4/src/library/SurrealHTTP.ts": "b804fe9ffa70940cb4ea123a60a5c1d6a60717ed21286f9c95fb1da41862c085",
+    "https://deno.land/x/surrealdb@v0.8.4/src/library/SurrealSocket.ts": "eda1f1f6cbde23d29743512776809d02d6ad41dd3a04a2e68c442d8388f1748f",
+    "https://deno.land/x/surrealdb@v0.8.4/src/library/WebSocket/deno.ts": "4de80d57aa71c61bc40bcf4afd9f8fa23c84bbd5412f17a53e50d50d81127612",
+    "https://deno.land/x/surrealdb@v0.8.4/src/library/getIncrementalID.ts": "e119897d27f696ee3493fa6c0bc71a83c0320784978d051aea5cb2c178b48bb2",
+    "https://deno.land/x/surrealdb@v0.8.4/src/library/isNil.ts": "af7fe23c3d09654089dc0cbd838f760889050de16d92c1d81c595f7175ec3748",
+    "https://deno.land/x/surrealdb@v0.8.4/src/library/processAuthVars.ts": "ca4d98de0f30dc15d75b51f76613498524b76a8286bfb43d72955d4faaee4b9b",
+    "https://deno.land/x/surrealdb@v0.8.4/src/library/processUrl.ts": "f0d831c2e4516f278a86c2f7d7051eaf216da5279b602e8468cfd02c4b39ad7e",
+    "https://deno.land/x/surrealdb@v0.8.4/src/strategies/http.ts": "2618b88aba86a5e6f2c2c383e8c9b08c71259f6f423a12bb78499abd95af78f1",
+    "https://deno.land/x/surrealdb@v0.8.4/src/strategies/websocket.ts": "158e13b6d28058921fb11b1f871561371a4074fc3c0ce257dc91e0cad6a341bc",
+    "https://deno.land/x/surrealdb@v0.8.4/src/types.ts": "45b6e5e40fdfe510b3ad6b0a8e7efa42e6073897d0dbe7faf553762bc25fa49e"
+  }
+}
